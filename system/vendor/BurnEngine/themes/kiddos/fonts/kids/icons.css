@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'Kiddos-Theme';
+  src:
+      url('Kiddos-Theme.woff2?qx3ua8') format('woff2'),
+      url('Kiddos-Theme.woff?qx3ua8') format('woff'),
+      url('Kiddos-Theme.ttf?qx3ua8') format('truetype'),
+      url('Kiddos-Theme.svg?qx3ua8#Kiddos-Theme') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class*="ico-kiddos"],
+[class*="ico-kiddos"]:before
+{
+  font-family: 'Kiddos-Theme' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  speak: none;
+}
+[class^="ico-kiddos-"], [class*="ico-kiddos"] {
+  display: inline-block;
+  line-height: inherit;
+  text-align: center;
+  text-transform: none;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-kiddos-bicycle:before {
+  content: "\e900";
+}
+.ico-kiddos-book:before {
+  content: "\e901";
+}
+.ico-kiddos-bottle:before {
+  content: "\e902";
+}
+.ico-kiddos-clothing-1:before {
+  content: "\e903";
+}
+.ico-kiddos-decoration:before {
+  content: "\e905";
+}
+.ico-kiddos-feet:before {
+  content: "\e906";
+}
+.ico-kiddos-gift:before {
+  content: "\e907";
+}
+.ico-kiddos-health:before {
+  content: "\e908";
+}
+.ico-kiddos-horse:before {
+  content: "\e909";
+}
+.ico-kiddos-woman:before {
+  content: "\e90a";
+}
+.ico-kiddos-baby:before {
+    content: "\e90b";
+}
+.ico-kiddos-boy:before {
+    content: "\e90c";
+}
+.ico-kiddos-girl:before {
+    content: "\e90d";
+}
+.ico-kiddos-baby-transport:before {
+    content: "\e90e";
+}
+.ico-kiddos-hot-air-balloon:before {
+    content: "\e90f";
+}
+.ico-kiddos-moon:before {
+    content: "\e910";
+}
+.ico-kiddos-toy-car:before {
+    content: "\e911";
+}
