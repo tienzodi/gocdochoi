@@ -1,0 +1,123 @@
+s:10115:"<div class="mightySlider mightyslider_custom_skin fixed tbLoading lazyload" data-expand="100">
+  <div class="frame" data-mightyslider="width: 1200, height: 500">
+    <div class="slideelement">
+            <div id="FireSlider_GE6l68Rs_slide_1" class="ms_slide" data-mightyslider="type: 'image', cover: 'http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_1.jpg', id: 'FireSlider_GE6l68Rs_slide_1'">
+                        <div class="ms_scene">
+                    <div id="FireSlider_GE6l68Rs_slide_1_layer_1" class="mSCaption" data-msanimation="{delay: 2200, speed: 1500, easing: 'easeOutElastic', style: {top: 340, left: 80, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <a class="btn btn-lg" href="javascript:;">Shop Now</a>                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_1_layer_2" class="mSCaption tb_main_color h1 dashed_dark dashed_2px_md" data-msanimation="{delay: 1900, speed: 1500, easing: 'easeOutElastic', style: {top: 150, left: 80, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    Stollers & <br />
+push chairs                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_1_layer_3" class="mSCaption tb_secondary_color h3" data-msanimation="{delay: 1500, speed: 1500, easing: 'easeOutElastic', style: {top: 100, left: 80, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    New Collection                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_1_layer_4" class="mSCaption" data-msanimation="{delay: 1100, speed: 1100, easing: 'easeOutElastic', style: {top: -263, right: 610, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <span class="h2 tb_main_color tb_secondary_color">$500</span>                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_1_layer_5" class="mSCaption" data-msanimation="{delay: 1100, speed: 1100, easing: 'easeOutElastic', style: {top: -260, right: 610, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <img src="http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_1_layer_3.png" width="85" height="430" alt="" />
+                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_1_layer_6" class="mSCaption" data-msanimation="{delay: 900, speed: 1100, easing: 'easeOutElastic', style: {top: -173, right: 70, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <span class="h2 tb_main_color tb_secondary_color">$399</span>                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_1_layer_7" class="mSCaption" data-msanimation="{delay: 900, speed: 1100, easing: 'easeOutElastic', style: {top: -170, right: 70, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <img src="http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_1_layer_3.png" width="85" height="430" alt="" />
+                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_1_layer_8" class="mSCaption" data-msanimation="{delay: 500, speed: 600, easing: 'easeOutQuint', style: {top: 70, right: 400, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <img src="http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_1_layer_2.png" width="287" height="370" alt="" />
+                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_1_layer_9" class="mSCaption" data-msanimation="{delay: 100, speed: 600, easing: 'easeOutQuint', style: {top: 70, right: 100, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <img src="http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_1_layer_1.png" width="284" height="370" alt="" />
+                                  </div>
+                  </div>
+                              </div>
+            <div id="FireSlider_GE6l68Rs_slide_2" class="ms_slide" data-mightyslider="type: 'image', cover: 'http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_2.jpg', id: 'FireSlider_GE6l68Rs_slide_2'">
+                        <div class="ms_scene">
+                    <div id="FireSlider_GE6l68Rs_slide_2_layer_1" class="mSCaption" data-msanimation="{delay: 1100, speed: 1500, easing: 'easeOutElastic', style: {top: 195, right: 190, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <img src="http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_2_layer_2.png" width="151" height="58" alt="" />
+                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_2_layer_2" class="mSCaption h3" data-msanimation="{delay: 800, speed: 1500, easing: 'easeOutElastic', style: {top: 140, right: 70, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    For the new man in your life!                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_2_layer_3" class="mSCaption h1" data-msanimation="{delay: 500, speed: 1500, easing: 'easeOutElastic', style: {top: 80, right: 70, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    Mustachifier                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_2_layer_4" class="mSCaption" data-msanimation="{delay: 100, speed: 400, easing: 'easeOutQuad', style: {top: 70, left: 65, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <img src="http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_2_layer_1.png" width="777" height="373" alt="" />
+                                  </div>
+                  </div>
+                              </div>
+            <div id="FireSlider_GE6l68Rs_slide_3" class="ms_slide" data-mightyslider="type: 'image', cover: 'http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_3.jpg', id: 'FireSlider_GE6l68Rs_slide_3'">
+                        <div class="ms_scene">
+                    <div id="FireSlider_GE6l68Rs_slide_3_layer_1" class="mSCaption" data-msanimation="{delay: 1200, speed: 1500, easing: 'easeOutElastic', style: {top: 300, left: 80, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <a class="btn btn-lg tb_secondary_color_bg" href="">Shop Now!</a>                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_3_layer_2" class="mSCaption h1 tb_main_color" data-msanimation="{delay: 900, speed: 1500, easing: 'easeOutElastic', style: {top: 160, left: 80, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    DollHouses <br />
+& Dolls                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_3_layer_3" class="mSCaption h3" data-msanimation="{delay: 600, speed: 1500, easing: 'easeOutElastic', style: {top: 120, left: 80, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    Say Hello to our new...                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_3_layer_4" class="mSCaption" data-msanimation="{delay: 100, speed: 500, easing: 'easeOutQuad', style: {top: 0, left: 0, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <img src="http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_3_layer_2.png" width="1200" height="500" alt="" />
+                                  </div>
+                    <div id="FireSlider_GE6l68Rs_slide_3_layer_5" class="mSCaption" data-msanimation="{delay: 300, speed: 500, easing: 'easeOutQuad', style: {top: 0, left: 0, opacity: 1, transform: 'scale(1) rotate(0deg)'}}">
+                                    <img src="http://gocdochoi.local:88/image/catalog/sample_data/sliders/slider_1_slide_3_layer_1.png" width="1200" height="500" alt="" />
+                                  </div>
+                  </div>
+                              </div>
+          </div>
+  </div>
+</div>
+
+<div class="tb_placeholder"></div>
+
+
+
+<script type="text/javascript" data-prepend="1">
+init_slider_FireSlider_GE6l68Rs = function() {
+    tbApp.onScriptLoaded(function() {
+        setTimeout(function() {
+
+            
+            var $slider = new mightySlider(
+                '#FireSlider_GE6l68Rs .mightySlider .frame',
+                {
+                    speed:       500,
+                    easing:      'easeOutExpo',
+                    startRandom: 0,
+                    viewport:    'fill',
+                    autoScale:   1,
+                    navigation: {
+                        slideSize:      '100%',
+                        keyboardNavBy:  'slides'
+                    },
+                                        commands: {
+                        pages: 1,
+                        buttons: 1
+                    },
+                    pages: {
+                      activateOn: 'click'
+                    },
+                    dragging: {
+                        releaseSwing: 1,
+                        swingSync:     5,
+                        swingSpeed:    0.2
+                    },
+                                                            classes: {
+                      loaderClass:   'tb_loading_bar'
+                    }
+                }
+            ).init();
+
+                        $slider.one('coverInserted', function (eventName) {
+                $('#FireSlider_GE6l68Rs .mightySlider').removeClass('tbLoading');
+            });
+            
+            
+            
+            
+            
+        }, 250);
+    });
+};
+
+$(document).on('lazybeforeunveil', function(e) {
+    if ($(e.target).filter('#FireSlider_GE6l68Rs > .mightySlider').length) {
+        init_slider_FireSlider_GE6l68Rs();
+    }
+});
+</script>";
